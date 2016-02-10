@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T20:24:28.401Z'
-dateModified: '2016-02-10T20:20:49.614Z'
+datePublished: '2016-02-10T21:04:29.641Z'
+dateModified: '2016-02-10T21:04:28.918Z'
 title: Experiencia toda
 author: []
+sourcePath: _posts/2016-02-10-experiencia-toda.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-experiencia-toda.md
-published: true
 url: experiencia-toda/index.html
 _type: Article
 
