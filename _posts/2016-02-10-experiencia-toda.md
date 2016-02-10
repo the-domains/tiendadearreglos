@@ -1,13 +1,13 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T21:05:15.621Z'
-dateModified: '2016-02-10T21:05:11.832Z'
+datePublished: '2016-02-10T21:05:50.602Z'
+dateModified: '2016-02-10T21:05:48.004Z'
 title: Experiencia toda
 author: []
 sourcePath: _posts/2016-02-10-experiencia-toda.md
@@ -18,8 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: experiencia-toda/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 Mas de 40 años de experiencia
