@@ -1,7 +1,8 @@
 name: Tiendadearreglos
 favicon: null
-layout_spectrum: 0.7579643509816378
-typography_spectrum: 0.15321606677025557
+layout_spectrum: 0.10981
+typography_spectrum: 0.12797
+title: Arreglos de Ropa en Zaragoza
 cta:
   domain: null
   bucket: null
@@ -16,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#fefefe'
+    - '#4c4439'
+    - '#9b9d9a'
+    - '#f74320'
+    - '#fad31f'
   brandStrength: 0.8816519593819976
   lightness: 0.20609802100807428
   saturation: 0.040786313358694315
