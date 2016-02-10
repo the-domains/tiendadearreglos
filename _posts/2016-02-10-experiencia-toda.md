@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T21:47:35.467Z'
-dateModified: '2016-02-10T21:47:31.559Z'
+datePublished: '2016-02-10T22:20:34.344Z'
+dateModified: '2016-02-10T22:20:27.043Z'
 title: Experiencia toda
 author: []
 sourcePath: _posts/2016-02-10-experiencia-toda.md
