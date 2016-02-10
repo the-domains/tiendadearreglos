@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T22:26:55.113Z'
-dateModified: '2016-02-10T22:21:06.284Z'
+datePublished: '2016-02-10T22:27:17.268Z'
+dateModified: '2016-02-10T22:27:02.273Z'
 title: Clientes felices
 author: []
 sourcePath: _posts/2016-02-10-clientes-felices.md
@@ -25,4 +25,6 @@ _type: Article
 Clientes Contentos  :-)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/262a929c-8602-4205-98ab-c52c8d1b8691.jpg)
 
-**Clientes de siempre, clientes que vuelven, clientes que durante años ahorran en ropa, clientes que sonrien, esos son los clientes de Tienda de Arreglos.**
+Clientes de siempre, clientes que vuelven, clientes que durante años ahorran en ropa, clientes que sonrien, esos son los clientes de Tienda de Arreglos.
+
+> # Gracias por salvarme la boda, arreglasteis el vestido de 10!!
