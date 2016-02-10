@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T20:24:20.053Z'
-dateModified: '2016-02-10T20:18:53.898Z'
+datePublished: '2016-02-10T21:11:37.152Z'
+dateModified: '2016-02-10T21:11:33.705Z'
 title: Clientes felices
 author: []
+sourcePath: _posts/2016-02-10-clientes-felices.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-10-clientes-felices.md
-published: true
 url: clientes-felices/index.html
-_type: Article
+_type: WebPage
 
 ---
 Clientes Contentos  :-)
